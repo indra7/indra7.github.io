@@ -1,0 +1,6 @@
+permalink: /:title
+
+title: YepCode.cc
+url: http://yepcode.cc
+feed: /atom.xml
+author_info: <a href="http://yepcode.cc/">YepCode</a>
